@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="144" height="576" viewBox="0, 0, 144, 576">
+  <defs>
+    <clipPath id="cut-off-bottom">
+      <rect x="0" y="50%" width="200" height="50%" />
+    </clipPath>
+    <linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="70.5" y1="564.5" x2="70.5" y2="0">
+      <stop offset="0" stop-color="#FA0000"/>
+      <stop offset="1" stop-color="#0014FF"/>
+    </linearGradient>
+  </defs>
+  <g id="Omriss">
+    <path d="M79.045,0.5 C85.552,0.5 90.827,5.589 90.827,11.866 L90.827,437.207 C123.058,446.161 143.653,472.066 144.5,504.377 C144.5,542.737 112.264,573.833 72.5,573.833 C32.735,573.833 0.5,542.737 0.5,504.377 C1.267,473.29 18.349,451.124 47.627,439.182 L47.627,11.866 C47.627,5.589 52.902,0.5 59.409,0.5 L79.045,0.5 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+  </g>
+  <g id="Gradient">
+    <g>
+      <path clip-path="url(#cut-off-bottom)"
+      d="M68.888,63.217 C74.58,63.955 78.393,67.807 78.682,72.901 L78.682,457.949 C108.803,460.883 129.759,484.844 130.5,510.959 C130.5,540.529 103.637,564.5 70.5,564.5 C37.363,564.5 10.5,540.529 10.5,510.96 C10.668,486.824 29.82,463.791 56.864,458.857 L56.864,72.901 C56.864,67.525 61.748,63.167 67.773,63.167 L68.888,63.217 z" fill="url(#Gradient_1)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="144" height="576" viewBox="0, 0, 144, 576">
+  <g id="Streker" transform="translate(0, 0)">
+    <path d="M99.5,431.5 L117.5,431.5" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M99.5,395.5 L117.5,395.5" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M99.5,361.5 L117.5,361.5" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M99.5,325.5 L117.5,325.5" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M99.5,289 L117.5,289" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M99.5,253 L117.5,253" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M99.5,219 L117.5,219" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M99.5,183 L117.5,183" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M99.5,143 L117.5,143" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M99.5,107 L117.5,107" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M99.5,73 L117.5,73" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <path d="M99.5,37 L117.5,37" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+  </g>
+</svg>

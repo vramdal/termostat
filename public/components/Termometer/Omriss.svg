@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="144" height="576" viewBox="0, 0, 144, 576">
+  <g id="Omriss" transform="translate(0, 0)">
+    <path d="M79.045,0.5 C85.552,0.5 90.827,5.589 90.827,11.866 L90.827,437.207 C123.058,446.161 143.653,472.066 144.5,504.377 C144.5,542.737 112.264,573.833 72.5,573.833 C32.735,573.833 0.5,542.737 0.5,504.377 C1.267,473.29 18.349,451.124 47.627,439.182 L47.627,11.866 C47.627,5.589 52.902,0.5 59.409,0.5 L79.045,0.5 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+  </g>
+</svg>
